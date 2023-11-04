@@ -24,25 +24,20 @@ The real estate market is one of the most significant and dynamic sectors in the
 
 If you're eager to get involved in this project, follow these steps:
 
-1. **Clone the Repository**: Start by cloning this repository to your local machine.
 
-
-git clone https://github.com/VidhyahreeX/house-price-prediction-using-Linear-Regression-machine-learnig.git
-
-
-2. **Requirements**: Ensure you have Python installed and install the necessary packages using the provided requirements file.
+1. **Requirements**: Ensure you have Python installed and install the necessary packages using the provided requirements file.
 
 
 pip install -r requirements.txt
 
 
-3. **Run the Jupyter Notebook**: Explore the Jupyter Notebook in the project directory to dive into the code and analysis.
+2. **Run the Jupyter Notebook**: Explore the Jupyter Notebook in the project directory to dive into the code and analysis.
 
 
 jupyter notebook House_Price_Prediction.ipynb
 
 
-4. **Contribute**: Feel free to contribute by adding new features, improving the model, or suggesting enhancements.
+3. **Contribute**: Feel free to contribute by adding new features, improving the model, or suggesting enhancements.
 
 ## Resources
 
