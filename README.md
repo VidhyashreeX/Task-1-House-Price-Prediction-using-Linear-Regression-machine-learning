@@ -1,2 +1,4 @@
-# Task-1-House-Price-Prediction-using-Linear-Regression-machine-learning-
- A machine learning project focused on "House Price Prediction" using the Linear Regression algorithm. As a part of my virtual internship program from Bharat Intern .
+# Task-1-House-Price-Prediction-using-Linear-Regression-machine-learning
+ A machine learning project focused on "House Price Prediction" using the Linear Regression algorithm. As a part of my virtual internship program from Bharat Intern.
+Bharat Intern Virtual Internship Program(October Session)
+As part of a virtual internship assigned by Bharath Intern, I undertook a machine learning project focused on "House Price Prediction" using the Linear Regression algorithm. The project involved analyzing real estate data, identifying crucial factors impacting property prices, and creating a robust predictive model. My role was to develop and fine-tune this model, aiming to accurately estimate house prices based on various relevant features. Throughout the project, I gained valuable experience in data analysis and machine learning, contributing to a practical solution for predicting real estate prices.
